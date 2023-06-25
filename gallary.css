@@ -1,0 +1,65 @@
+/* header_section */
+.header_section{
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+}
+
+.header_section .navbar .navbar-brand .fa-camera-retro{
+    font-size: 26px;
+    display: inline-block;
+    background: #48d1cc;
+    height: 50px;
+    width: 50px;
+    color: #ffff;
+    border-radius: 42px;
+    padding-top: 11px;
+    padding-left: 11px;
+}
+
+
+.header_section .navbar .navbar-brand {
+    font-weight: 600;
+    color: 	#008080;
+    font-size: 30px;
+}
+.header_section .navbar .navbar-brand .sk_span{
+    color: #48d1cc;
+}
+.header_section .navbar .navbar-collapse .navbar-nav .nav-item .nav-link{
+    color: 	#008080	;
+}
+.header_section .navbar .navbar-collapse .navbar-nav .nav-item .nav-link:hover {
+    font-weight: 600;
+    color: #48d1cc;
+}
+.header_section .navbar .navbar-collapse .con-icon .con-ion-aref{
+    display: inline-block;
+    background: #48d1cc;
+    color: #ffff;
+    height: 30px;
+    width: 30px;
+    font-size: 15px;
+    padding-left: 8px;
+    padding-top: 4px;
+    border-radius: 30px;
+}
+/* ============================================================================= */
+.gallary-section .container .row .col{
+    margin-bottom: 10px;
+}
+.gallary-section .container .text-center{
+    color: cadetblue
+}
+.gallary-section .container .text-p{
+    color:#008080;
+    font-size: 20px;
+}
+/* ======================================================================================== */
+.quote-section .container .text-p{
+    color:#008080;
+    font-size: 20px;
+}
+.quote-section .container .text-p .quote{
+    color:cadetblue;
+}
